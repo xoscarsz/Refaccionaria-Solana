@@ -1,7 +1,6 @@
 use anchor_lang::prelude::*;
 
-// IMPORTANTE: Dale a "Build" en el Playground y pega el ID generado aquí
-declare_id!("Pega_Tu_Program_ID_Aqui");
+declare_id!("4mUN6kPwNERz1Pw8RHF14Le4S3c5D49ahaXKqmaksgq9");
 
 #[program]
 pub mod refaccionaria_solana {
